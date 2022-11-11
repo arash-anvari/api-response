@@ -63,6 +63,7 @@ class Controller extends BaseController
 ## Credits
 
 - [Arash Anvari](https://github.com/arash-anvari)
+- [Farzane Khazaei](https://github.com/F4rzane)
 
 ## LICENSE
 
